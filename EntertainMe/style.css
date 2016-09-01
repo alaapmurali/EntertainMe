@@ -1,0 +1,14 @@
+#joke {
+    width: 300px;
+    height: auto;
+    /*border-top: 1px solid #9cc2ef;*/
+    /*background-color: #ebeff9;*/
+    padding: 3px 5px;
+    font-size: 100%;
+}
+
+img {
+    width: 142px;
+    height: 80px;
+    padding: 5px;
+}
